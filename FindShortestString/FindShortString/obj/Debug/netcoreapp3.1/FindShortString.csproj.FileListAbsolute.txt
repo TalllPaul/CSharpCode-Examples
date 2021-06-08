@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.exe
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.deps.json
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.runtimeconfig.json
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.dll
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\bin\Debug\netcoreapp3.1\FindShortString.pdb
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.dll
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.pdb
+C:\Users\pandrews\source\repos\FindShortestString\FindShortString\obj\Debug\netcoreapp3.1\FindShortString.genruntimeconfig.cache

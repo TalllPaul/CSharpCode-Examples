@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.exe
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.deps.json
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.runtimeconfig.json
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.dll
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\bin\Debug\netcoreapp3.1\OrderString.pdb
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.dll
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.pdb
+C:\Users\pandrews\source\repos\OrderStringByNumberContained\OrderString\obj\Debug\netcoreapp3.1\OrderString.genruntimeconfig.cache

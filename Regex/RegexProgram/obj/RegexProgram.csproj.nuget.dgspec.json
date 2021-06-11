@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pandrews\\source\\repos\\Regex\\RegexProgram\\RegexProgram.csproj": {}
+    "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\Regex\\RegexProgram\\RegexProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pandrews\\source\\repos\\Regex\\RegexProgram\\RegexProgram.csproj": {
+    "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\Regex\\RegexProgram\\RegexProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pandrews\\source\\repos\\Regex\\RegexProgram\\RegexProgram.csproj",
+        "projectUniqueName": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\Regex\\RegexProgram\\RegexProgram.csproj",
         "projectName": "RegexProgram",
-        "projectPath": "C:\\Users\\pandrews\\source\\repos\\Regex\\RegexProgram\\RegexProgram.csproj",
+        "projectPath": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\Regex\\RegexProgram\\RegexProgram.csproj",
         "packagesPath": "C:\\Users\\pandrews\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pandrews\\source\\repos\\Regex\\RegexProgram\\obj\\",
+        "outputPath": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\Regex\\RegexProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

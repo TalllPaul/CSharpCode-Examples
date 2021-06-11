@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.exe
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.deps.json
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.runtimeconfig.json
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.dll
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\bin\Debug\netcoreapp3.1\FilterList.pdb
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.dll
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.pdb
+C:\Users\pandrews\source\repos\FilterStringOutOfList\FilterList\obj\Debug\netcoreapp3.1\FilterList.genruntimeconfig.cache

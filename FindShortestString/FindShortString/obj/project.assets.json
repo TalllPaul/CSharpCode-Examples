@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pandrews\\source\\repos\\FindShortestString\\FindShortString\\FindShortString.csproj",
+      "projectUniqueName": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\FindShortestString\\FindShortString\\FindShortString.csproj",
       "projectName": "FindShortString",
-      "projectPath": "C:\\Users\\pandrews\\source\\repos\\FindShortestString\\FindShortString\\FindShortString.csproj",
+      "projectPath": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\FindShortestString\\FindShortString\\FindShortString.csproj",
       "packagesPath": "C:\\Users\\pandrews\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pandrews\\source\\repos\\FindShortestString\\FindShortString\\obj\\",
+      "outputPath": "C:\\Users\\pandrews\\Documents\\C# Solutions\\CSharpCode-Examples\\FindShortestString\\FindShortString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

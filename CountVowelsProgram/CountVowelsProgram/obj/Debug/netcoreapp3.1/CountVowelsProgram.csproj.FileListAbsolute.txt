@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.exe
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.deps.json
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.dll
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\bin\Debug\netcoreapp3.1\CountVowelsProgram.pdb
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.dll
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.pdb
+C:\Users\pandrews\source\repos\CountVowelsProgram\CountVowelsProgram\obj\Debug\netcoreapp3.1\CountVowelsProgram.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.exe
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.deps.json
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.dll
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\bin\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.pdb
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.dll
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.pdb
+C:\Users\pandrews\source\repos\EnterNumberUntilQuitProgram\EnterNumberUntilQuitProgram\obj\Debug\netcoreapp3.1\EnterNumberUntilQuitProgram.genruntimeconfig.cache

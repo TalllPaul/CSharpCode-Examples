@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.exe
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.deps.json
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.runtimeconfig.json
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.dll
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\bin\Debug\netcoreapp3.1\RandomBasic.pdb
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.dll
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.pdb
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.genruntimeconfig.cache
+C:\Users\pandrews\source\repos\RandomBasic\RandomBasic\obj\Debug\netcoreapp3.1\RandomBasic.csproj.AssemblyReference.cache

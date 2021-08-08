@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.exe
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.deps.json
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.runtimeconfig.json
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.dll
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\bin\Debug\netcoreapp3.1\LoopsBasic.pdb
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.dll
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.pdb
+C:\Users\pandrews\source\repos\LoopsBasic\LoopsBasic\obj\Debug\netcoreapp3.1\LoopsBasic.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.exe
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.deps.json
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.dll
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\bin\Debug\netcoreapp3.1\SortUniqueNumbersProgram.pdb
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.dll
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.pdb
+C:\Users\pandrews\source\repos\SortUniqueNumbersProgram\SortUniqueNumbersProgram\obj\Debug\netcoreapp3.1\SortUniqueNumbersProgram.genruntimeconfig.cache

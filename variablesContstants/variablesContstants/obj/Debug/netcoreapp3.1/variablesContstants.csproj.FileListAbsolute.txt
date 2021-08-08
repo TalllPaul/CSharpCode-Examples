@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.exe
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.deps.json
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.runtimeconfig.json
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.dll
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\bin\Debug\netcoreapp3.1\variablesContstants.pdb
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.dll
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.pdb
+C:\Users\pandrews\source\repos\variablesContstants\variablesContstants\obj\Debug\netcoreapp3.1\variablesContstants.genruntimeconfig.cache

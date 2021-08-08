@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.exe
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.deps.json
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\pandrews\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.genruntimeconfig.cache

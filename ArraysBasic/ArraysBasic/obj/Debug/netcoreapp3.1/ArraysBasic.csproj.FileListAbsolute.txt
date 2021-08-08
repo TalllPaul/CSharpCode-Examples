@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.exe
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.deps.json
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.runtimeconfig.json
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.dll
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\bin\Debug\netcoreapp3.1\ArraysBasic.pdb
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.dll
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.pdb
+C:\Users\pandrews\source\repos\ArraysBasic\ArraysBasic\obj\Debug\netcoreapp3.1\ArraysBasic.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.exe
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.deps.json
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.dll
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\bin\Debug\netcoreapp3.1\EnterAValidTimeProgram.pdb
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.dll
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.pdb
+C:\Users\pandrews\source\repos\EnterAValidTimeProgram\EnterAValidTimeProgram\obj\Debug\netcoreapp3.1\EnterAValidTimeProgram.genruntimeconfig.cache

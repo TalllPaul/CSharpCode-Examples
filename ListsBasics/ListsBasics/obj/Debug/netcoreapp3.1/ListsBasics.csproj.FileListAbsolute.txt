@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.exe
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.deps.json
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.runtimeconfig.json
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.dll
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\bin\Debug\netcoreapp3.1\ListsBasics.pdb
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.dll
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.pdb
+C:\Users\pandrews\source\repos\ListsBasics\ListsBasics\obj\Debug\netcoreapp3.1\ListsBasics.genruntimeconfig.cache

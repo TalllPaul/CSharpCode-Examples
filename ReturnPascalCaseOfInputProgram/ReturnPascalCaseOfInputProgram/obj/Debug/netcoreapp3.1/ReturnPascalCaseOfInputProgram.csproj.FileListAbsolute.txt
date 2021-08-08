@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.exe
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.deps.json
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.dll
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\bin\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.pdb
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.dll
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.pdb
+C:\Users\pandrews\source\repos\ReturnPascalCaseOfInputProgram\ReturnPascalCaseOfInputProgram\obj\Debug\netcoreapp3.1\ReturnPascalCaseOfInputProgram.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.exe
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.deps.json
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.runtimeconfig.json
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.dll
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.1\RefTypesValueTypes.pdb
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.dll
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.pdb
+C:\Users\pandrews\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.1\RefTypesValueTypes.genruntimeconfig.cache

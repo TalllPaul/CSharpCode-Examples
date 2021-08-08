@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.exe
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.deps.json
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.runtimeconfig.json
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.dll
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\bin\Debug\netcoreapp3.1\NumbersDivisibleByThree.pdb
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.dll
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.pdb
+C:\Users\pandrews\source\repos\NumbersDivisibleByThree\NumbersDivisibleByThree\obj\Debug\netcoreapp3.1\NumbersDivisibleByThree.genruntimeconfig.cache

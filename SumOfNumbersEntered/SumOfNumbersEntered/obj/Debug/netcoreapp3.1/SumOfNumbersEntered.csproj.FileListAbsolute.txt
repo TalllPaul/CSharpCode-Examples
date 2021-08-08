@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.exe
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.deps.json
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.runtimeconfig.json
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.dll
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\bin\Debug\netcoreapp3.1\SumOfNumbersEntered.pdb
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.dll
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.pdb
+C:\Users\pandrews\source\repos\SumOfNumbersEntered\SumOfNumbersEntered\obj\Debug\netcoreapp3.1\SumOfNumbersEntered.genruntimeconfig.cache

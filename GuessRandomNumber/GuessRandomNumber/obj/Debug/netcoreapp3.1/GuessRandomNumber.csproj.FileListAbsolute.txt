@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.exe
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.deps.json
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.runtimeconfig.json
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.dll
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.pdb
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.dll
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.pdb
+C:\Users\pandrews\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.genruntimeconfig.cache

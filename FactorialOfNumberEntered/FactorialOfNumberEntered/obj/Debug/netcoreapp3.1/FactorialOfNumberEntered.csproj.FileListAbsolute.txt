@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.exe
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.deps.json
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.runtimeconfig.json
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.dll
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\bin\Debug\netcoreapp3.1\FactorialOfNumberEntered.pdb
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.dll
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.pdb
+C:\Users\pandrews\source\repos\FactorialOfNumberEntered\FactorialOfNumberEntered\obj\Debug\netcoreapp3.1\FactorialOfNumberEntered.genruntimeconfig.cache

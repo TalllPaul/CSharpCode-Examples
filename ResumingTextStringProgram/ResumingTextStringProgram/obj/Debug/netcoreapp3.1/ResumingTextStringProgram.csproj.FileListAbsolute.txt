@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.exe
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.deps.json
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.dll
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\bin\Debug\netcoreapp3.1\ResumingTextStringProgram.pdb
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.dll
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.pdb
+C:\Users\pandrews\source\repos\ResumingTextStringProgram\ResumingTextStringProgram\obj\Debug\netcoreapp3.1\ResumingTextStringProgram.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.exe
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.deps.json
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.dll
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\bin\Debug\netcoreapp3.1\OddIntInArrayProgram.pdb
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.dll
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.pdb
+C:\Users\pandrews\source\repos\OddIntInArrayProgram\OddIntInArrayProgram\obj\Debug\netcoreapp3.1\OddIntInArrayProgram.genruntimeconfig.cache

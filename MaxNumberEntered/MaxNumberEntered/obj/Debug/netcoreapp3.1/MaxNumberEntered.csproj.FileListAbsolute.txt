@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.exe
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.deps.json
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.runtimeconfig.json
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.dll
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\bin\Debug\netcoreapp3.1\MaxNumberEntered.pdb
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.dll
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.pdb
+C:\Users\pandrews\source\repos\MaxNumberEntered\MaxNumberEntered\obj\Debug\netcoreapp3.1\MaxNumberEntered.genruntimeconfig.cache

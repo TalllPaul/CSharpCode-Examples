@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.exe
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.deps.json
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.runtimeconfig.json
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.dll
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.pdb
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.dll
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.pdb
+C:\Users\pandrews\source\repos\IfElseSwitch\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.genruntimeconfig.cache

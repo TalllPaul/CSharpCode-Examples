@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.exe
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.deps.json
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.runtimeconfig.json
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.dll
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\bin\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.pdb
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.dll
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.pdb
+C:\Users\pandrews\source\repos\DateTimeTimeSpanExamples\DateTimeTimeSpanExamples\obj\Debug\netcoreapp3.1\DateTimeTimeSpanExamples.genruntimeconfig.cache

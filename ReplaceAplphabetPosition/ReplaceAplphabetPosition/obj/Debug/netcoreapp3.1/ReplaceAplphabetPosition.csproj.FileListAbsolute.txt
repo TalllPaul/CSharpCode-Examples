@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.exe
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.deps.json
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.runtimeconfig.json
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.dll
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\bin\Debug\netcoreapp3.1\ReplaceAplphabetPosition.pdb
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.dll
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.pdb
+C:\Users\pandrews\source\repos\ReplaceAplphabetPosition\ReplaceAplphabetPosition\obj\Debug\netcoreapp3.1\ReplaceAplphabetPosition.genruntimeconfig.cache

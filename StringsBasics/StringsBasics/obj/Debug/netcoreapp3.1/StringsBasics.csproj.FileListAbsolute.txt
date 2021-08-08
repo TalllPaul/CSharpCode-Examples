@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.exe
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.deps.json
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.runtimeconfig.json
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.dll
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\bin\Debug\netcoreapp3.1\StringsBasics.pdb
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.dll
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.pdb
+C:\Users\pandrews\source\repos\StringsBasics\StringsBasics\obj\Debug\netcoreapp3.1\StringsBasics.genruntimeconfig.cache

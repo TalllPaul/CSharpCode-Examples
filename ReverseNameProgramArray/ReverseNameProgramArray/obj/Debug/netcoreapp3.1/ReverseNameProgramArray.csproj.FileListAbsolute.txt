@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.exe
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.deps.json
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.runtimeconfig.json
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.dll
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\bin\Debug\netcoreapp3.1\ReverseNameProgramArray.pdb
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.dll
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.pdb
+C:\Users\pandrews\source\repos\ReverseNameProgramArray\ReverseNameProgramArray\obj\Debug\netcoreapp3.1\ReverseNameProgramArray.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ResumingTextStringProgram/1.0.0": {
+        "runtime": {
+          "ResumingTextStringProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResumingTextStringProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

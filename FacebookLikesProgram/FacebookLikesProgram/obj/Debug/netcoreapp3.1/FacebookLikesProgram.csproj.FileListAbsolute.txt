@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.exe
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.deps.json
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.dll
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\bin\Debug\netcoreapp3.1\FacebookLikesProgram.pdb
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.dll
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.pdb
+C:\Users\pandrews\source\repos\FacebookLikesProgram\FacebookLikesProgram\obj\Debug\netcoreapp3.1\FacebookLikesProgram.genruntimeconfig.cache

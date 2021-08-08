@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.exe
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.deps.json
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.runtimeconfig.json
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.dll
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\bin\Debug\netcoreapp3.1\CountWordsInFileProgram.pdb
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.dll
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.pdb
+C:\Users\pandrews\source\repos\CountWordsInFileProgram\CountWordsInFileProgram\obj\Debug\netcoreapp3.1\CountWordsInFileProgram.genruntimeconfig.cache

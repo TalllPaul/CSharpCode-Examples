@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.exe
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.deps.json
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.runtimeconfig.json
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.dll
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.pdb
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.dll
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.pdb
+C:\Users\pandrews\source\repos\DirectoryandDirectoryInfoDemo\DirectoryandDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryandDirectoryInfoDemo.genruntimeconfig.cache

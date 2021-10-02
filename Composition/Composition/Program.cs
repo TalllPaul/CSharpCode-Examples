@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace Composition
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("*Composition*");
+
+            var dbMigrator = new DBMigrator(new Logger());
+
+            var logger = new Logger();
+            var installer = new Installer(logger);
+
+            dbMigrator.Migrate();
+            installer.Install();
+
+
+        }
+    }
+}

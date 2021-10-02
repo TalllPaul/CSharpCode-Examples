@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.exe
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.deps.json
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.runtimeconfig.json
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.dll
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\bin\Debug\netcoreapp3.1\FieldsDemoReadonly.pdb
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.dll
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.pdb
+C:\Users\pandrews\source\repos\FieldsDemoReadonly\FieldsDemoReadonly\obj\Debug\netcoreapp3.1\FieldsDemoReadonly.genruntimeconfig.cache

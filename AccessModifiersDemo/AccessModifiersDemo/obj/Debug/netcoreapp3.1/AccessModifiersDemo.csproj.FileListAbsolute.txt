@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.exe
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.deps.json
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.runtimeconfig.json
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.dll
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\bin\Debug\netcoreapp3.1\AccessModifiersDemo.pdb
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.dll
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.pdb
+C:\Users\pandrews\source\repos\AccessModifiersDemo\AccessModifiersDemo\obj\Debug\netcoreapp3.1\AccessModifiersDemo.genruntimeconfig.cache

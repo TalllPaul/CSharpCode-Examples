@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pandrews\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

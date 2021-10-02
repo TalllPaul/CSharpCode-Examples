@@ -1,0 +1,10 @@
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\pandrews\Desktop\InterfacesInCSharpTimCorey\InterfaceDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

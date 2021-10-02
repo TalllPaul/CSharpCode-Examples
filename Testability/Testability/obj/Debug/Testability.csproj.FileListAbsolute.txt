@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.exe.config
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.exe
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.pdb
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.exe
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.pdb
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.exe.config
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.exe
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.pdb
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.csproj.AssemblyReference.cache
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.exe
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.pdb

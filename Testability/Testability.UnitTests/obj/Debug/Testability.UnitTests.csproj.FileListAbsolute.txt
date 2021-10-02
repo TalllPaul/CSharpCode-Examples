@@ -1,0 +1,19 @@
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.UnitTests.dll
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.UnitTests.pdb
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.dll
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.pdb
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.exe
+C:\Projects\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.pdb
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.UnitTests.dll
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.UnitTests.pdb
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.exe
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.pdb
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\Testability.exe.config
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.AssemblyReference.cache
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CopyComplete
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.dll
+C:\Users\pandrews\Documents\CSharp Chuletas\C#\Intermediate Mosh\CSharpIntermediate\CSharpIntermediate\Section5\Testability\Testability.UnitTests\obj\Debug\Testability.UnitTests.pdb

@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\pandrews\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.genruntimeconfig.cache

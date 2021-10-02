@@ -1,0 +1,13 @@
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\pandrews\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache
